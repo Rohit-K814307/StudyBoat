@@ -73,7 +73,7 @@ Main Features:
 ### Built With
 
 * [![React][React.js]][React-url]
-* <img src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" width="80" height="60" />
+* <img src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" width="80" height="25" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
