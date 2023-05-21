@@ -89,7 +89,9 @@ Main Features:
 
  ### Accomplishments
 
-
+* Deployed to production (Access at https://studyboat.netlify.app)
+* High scalability due to GPT API
+* Powerful and light notes generating AI/Machine Learning Model
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
