@@ -65,7 +65,6 @@ Main Features:
 * Flashcard Study Tool
 * Notes Summarizer
 
-:smile:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +73,7 @@ Main Features:
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Flask][Flask]][Flask-url]
+* [Flask-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
