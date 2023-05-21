@@ -60,12 +60,36 @@
 
 <img src="https://github.com/Rohit-K814307/StudyBoat/blob/master/frontend/app/src/assets/Logofull.png" alt="Logo">
 
-StudyBoat is your personal study tool designed to help you with your educational needs.
+StudyBoat is a personal study tool designed to help you with your educational needs.
 
 Main Features:
+
 * Essay Feedback Tool
+
+    Our essay feedback tool leverages the OpenAI GPT API to query the model and recieve immediate feedback on your essay. Then, StudyBoat
+    displays the results intuitively on the application for users to read. The application also queries the GPT API to rewrite the portions
+    of the essay with mistakes to improve them, serving them back to the user.
+
 * Flashcard Study Tool
+
+    Our flashcard study tool also leverages the OpenAI GPT API to query the model and serve flashcards on any topic. StudyBoat dynamically
+    renders flashcards from the queried GPT API and allows the user to flip the flashcards for answers, view more flashcards, and view the 
+    previous flashcard.
+
 * Notes Summarizer
+    
+    StudyBoat utilizes a custom TF-ID4 model to summarize notes based on input text. It finds the words of highest value in the text, and
+    strings them together to build a summary.
+
+
+ ### Application Architecture
+
+<img src="https://github.com/Rohit-K814307/StudyBoat/blob/master/assets/studyboat_architecture.png" alt="architecture">
+
+
+ ### Accomplishments
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
