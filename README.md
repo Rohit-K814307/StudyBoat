@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://studyboat.netlify.app">
-    <img src="https://github.com/Rohit-K814307/StudyBoat/blob/master/assets/home.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Rohit-K814307/StudyBoat/blob/master/assets/home.png" alt="Logo">
   </a>
 
   <h3 align="center">StudyBoat - Your personal AI-Powered Study Assistant</h3>
