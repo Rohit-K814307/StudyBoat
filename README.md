@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://studyboat.netlify.app">
-    <img src="frontend/source/assets/Logofull.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Rohit-K814307/StudyBoat/blob/master/assets/home.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">StudyBoat - Your personal AI-Powered Study Assistant</h3>
@@ -73,7 +73,7 @@ Main Features:
 ### Built With
 
 * [![React][React.js]][React-url]
-* [Flask-url]
+* ![Flask-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,11 +171,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rohit Kulkarni - [LinkedIn](https://www.linkedin.com/in/rohit-kulkarni-305a86202/) - kulkarni.rohitva@gmail.com
-Shlesh Sakpal - [LinkedIn](https://www.linkedin.com/in/shlesh/) - shleshsakpal@gmail.com
+* Rohit Kulkarni - [LinkedIn](https://www.linkedin.com/in/rohit-kulkarni-305a86202/) - kulkarni.rohitva@gmail.com
+* Shlesh Sakpal - [LinkedIn](https://www.linkedin.com/in/shlesh/) - shleshsakpal@gmail.com
 
-Project Link: [https://github.com/Rohit-K814307/StudyBoat](https://github.com/Rohit-K814307/StudyBoat)
-Project Demo: [https://studyboat.netlify.app/](https://studyboat.netlify.app/)
+* Project Link: [https://github.com/Rohit-K814307/StudyBoat](https://github.com/Rohit-K814307/StudyBoat)
+* Project Demo: [https://studyboat.netlify.app/](https://studyboat.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
