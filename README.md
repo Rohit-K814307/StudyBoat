@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][assets/home.png]](https://studyboat.netlify.app)
+[![Product Name Screen Shot][https://github.com/Rohit-K814307/StudyBoat/blob/master/frontend/app/src/assets/Logofull.png]](https://studyboat.netlify.app)
 
 StudyBoat is your personal study tool designed to help you with your educational needs.
 
@@ -73,7 +73,7 @@ Main Features:
 ### Built With
 
 * [![React][React.js]][React-url]
-* ![Flask-url]
+* <img src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" width="80" height="60" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
