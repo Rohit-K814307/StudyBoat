@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][https://github.com/Rohit-K814307/StudyBoat/blob/master/frontend/app/src/assets/Logofull.png]](https://studyboat.netlify.app)
+<img src="https://github.com/Rohit-K814307/StudyBoat/blob/master/frontend/app/src/assets/Logofull.png" alt="Logo">
 
 StudyBoat is your personal study tool designed to help you with your educational needs.
 
