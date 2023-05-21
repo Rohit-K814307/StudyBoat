@@ -18,6 +18,8 @@
     <br />
     <a href="https://studyboat.netlify.app">View Demo</a>
     ·
+    <a href="https://studyboat.netlify.app">Video Presentation</a>
+    ·
     <a href="https://github.com/Rohit-K814307/StudyBoat/issues">Report Bug</a>
     ·
     <a href="https://github.com/Rohit-K814307/StudyBoat/issues">Request Feature</a>
